@@ -1,2 +1,2 @@
 # openai_gym
-This repository contains my solutions to openai gym reinforcement learning problems
+This repository contains my solution OpenAI's reinforcement learning CartPole environment using the Q-Learning algorithm.
