@@ -4,6 +4,7 @@ While studying reinforcement learning and a few algorithms used, I wanted to app
 
 This README is a direct copy of my jupyter notebook that I used to write all the code.
 
+# Code
 
 ```python
 import gym
